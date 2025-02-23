@@ -7,6 +7,7 @@
 function tambah(a, b) {
 }
 
+
 /**
  * Mengembalikan hasil pengurangan dua angka.
  * @param {number} a 
